@@ -1,0 +1,15 @@
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\bin\Debug\net8.0\majus.exe
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\bin\Debug\net8.0\majus.deps.json
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\bin\Debug\net8.0\majus.runtimeconfig.json
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\bin\Debug\net8.0\majus.dll
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\bin\Debug\net8.0\majus.pdb
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.GeneratedMSBuildEditorConfig.editorconfig
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.AssemblyInfoInputs.cache
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.AssemblyInfo.cs
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.csproj.CoreCompileInputs.cache
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.sourcelink.json
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.dll
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\refint\majus.dll
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.pdb
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\majus.genruntimeconfig.cache
+E:\GenericCoding\School\DigKultErettsegi\CSharp\Emelt\2024\majus\obj\Debug\net8.0\ref\majus.dll

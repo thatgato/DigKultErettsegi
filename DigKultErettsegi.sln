@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{15A4ACE7-0DB6-4B08-9D3B-6EE56BC90D1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Emelt", "Emelt", "{D4CF9867-4F41-4DE7-A1C1-DC295D94B4B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2024", "2024", "{3CEEBCA3-6F68-4D1D-8760-1FEE4CBFB163}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "majus", "CSharp\Emelt\2024\majus\majus.csproj", "{17C910BC-8401-4B36-A502-E31D9F4D93B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C910BC-8401-4B36-A502-E31D9F4D93B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C910BC-8401-4B36-A502-E31D9F4D93B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C910BC-8401-4B36-A502-E31D9F4D93B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C910BC-8401-4B36-A502-E31D9F4D93B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D4CF9867-4F41-4DE7-A1C1-DC295D94B4B4} = {15A4ACE7-0DB6-4B08-9D3B-6EE56BC90D1F}
+		{3CEEBCA3-6F68-4D1D-8760-1FEE4CBFB163} = {D4CF9867-4F41-4DE7-A1C1-DC295D94B4B4}
+		{17C910BC-8401-4B36-A502-E31D9F4D93B9} = {3CEEBCA3-6F68-4D1D-8760-1FEE4CBFB163}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B1D16C-EFAF-4749-9914-908E33F95B42}
+	EndGlobalSection
+EndGlobal

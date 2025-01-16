@@ -26,6 +26,7 @@ DigKultErettsegi
                 └---{FeladatNeve}
 ```
 
-Minden feladat forráskódja a feladat mappájában található, a `Program.cs`, vagy `main.py` nevű fájlban.
+Minden feladat forráskódja a feladat mappájában található, a `{KértNév}.cs`, vagy `{KértNév}.py` nevű fájlban. A *{KértNév}* az érettségi feladat által elvárt mentési neve a forráskódnak.
 
 ***
+***A megoldások a .NET 8.0 keretrendszer használatával íródtak!***
